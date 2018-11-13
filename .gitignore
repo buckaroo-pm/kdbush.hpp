@@ -1,1 +1,4 @@
 build
+.buckd
+buck-out
+.buckconfig.local
